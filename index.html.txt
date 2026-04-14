@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Psicología Jurídica Rafaela</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f4f6f8;
+    color: #222;
+}
+
+header {
+    background: #0d1b2a;
+    color: white;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 32px;
+}
+
+header p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.btn {
+    display: inline-block;
+    margin: 10px;
+    padding: 12px 20px;
+    background: #1b263b;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.section {
+    padding: 40px 20px;
+    max-width: 900px;
+    margin: auto;
+}
+
+.section h2 {
+    color: #0d1b2a;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+footer {
+    background: #0d1b2a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+    <h1>Psicología Jurídica Rafaela</h1>
+    <p>Asistencia técnica estratégica para abogados</p>
+
+    <p><strong>Fortalecé tu caso con respaldo psicológico-forense</strong></p>
+
+    <a href="https://wa.me/549XXXXXXXXXX" class="btn">WhatsApp</a>
+    <a href="#contacto" class="btn">Solicitar revisión</a>
+</header>
+
+<section class="section">
+    <h2>¿Cómo te ayudamos?</h2>
+    <p>No hacemos informes aislados. Intervenimos para que <strong>la prueba pericial juegue a tu favor</strong>.</p>
+
+    <ul>
+        <li>Evitar pericias desfavorables</li>
+        <li>Detectar errores técnicos</li>
+        <li>Preparar estrategia pericial</li>
+        <li>Anticipar riesgos</li>
+        <li>Fortalecer prueba psicológica</li>
+    </ul>
+</section>
+
+<section class="section">
+    <h2>Servicios</h2>
+
+    <div class="card">
+        <h3>Perito Psicólogo de Parte</h3>
+        <p>Control técnico de pericias, impugnaciones y asistencia en audiencias.</p>
+        <strong>Objetivo: que la pericia no te juegue en contra.</strong>
+    </div>
+
+    <div class="card">
+        <h3>Delegado Técnico</h3>
+        <p>Acompañamiento estratégico durante todo el proceso pericial.</p>
+        <strong>Objetivo: tomar decisiones con respaldo técnico.</strong>
+    </div>
+
+    <div class="card">
+        <h3>Informes Pre-Judiciales</h3>
+        <p>Evaluación de viabilidad y análisis de riesgos antes de iniciar la demanda.</p>
+        <strong>Objetivo: evitar causas débiles.</strong>
+    </div>
+
+    <div class="card">
+        <h3>Evaluación de Pericias</h3>
+        <p>Análisis técnico de informes para impugnaciones o estrategia.</p>
+    </div>
+
+</section>
+
+<section class="section">
+    <h2>Casos donde aportamos valor</h2>
+    <ul>
+        <li>Régimen de comunicación</li>
+        <li>Cuidado personal</li>
+        <li>Violencia familiar</li>
+        <li>Daño psíquico</li>
+        <li>Evaluaciones en niños y adolescentes</li>
+    </ul>
+</section>
+
+<section class="section">
+    <h2>Errores frecuentes que evitamos</h2>
+
+    <ul>
+        <li>Confiar ciegamente en el perito oficial</li>
+        <li>No controlar la metodología</li>
+        <li>Puntos de pericia mal planteados</li>
+        <li>No detectar inconsistencias</li>
+    </ul>
+
+    <p><strong>Una mala pericia puede definir el resultado del caso.</strong></p>
+</section>
+
+<section class="section">
+    <h2>Diferencial</h2>
+
+    <ul>
+        <li>Enfoque jurídico (no clínico)</li>
+        <li>Lenguaje claro para abogados</li>
+        <li>Respuestas rápidas</li>
+        <li>Trabajo coordinado con el estudio</li>
+    </ul>
+</section>
+
+<section class="section" id="contacto">
+    <h2>Solicitar revisión de caso</h2>
+
+    <p>Evaluamos tu expediente y te indicamos estrategia, riesgos y viabilidad.</p>
+
+    <p><strong>Contacto:</strong></p>
+    <p>📍 Rafaela, Santa Fe</p>
+    <p>📧 tuemail@gmail.com</p>
+    <p>📱 +54 9 XXX XXX XXXX</p>
+
+    <a href="https://wa.me/549XXXXXXXXXX" class="btn">Escribir por WhatsApp</a>
+</section>
+
+<footer>
+    <p>Psicología Jurídica Rafaela</p>
+    <p>“La diferencia no está solo en el derecho, sino en cómo se juega la prueba.”</p>
+</footer>
+
+</body>
+</html>
