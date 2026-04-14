@@ -20,16 +20,6 @@ header {
     text-align: center;
 }
 
-header h1 {
-    margin: 0;
-    font-size: 32px;
-}
-
-header p {
-    font-size: 18px;
-    margin-top: 10px;
-}
-
 .btn {
     display: inline-block;
     margin: 10px;
@@ -73,10 +63,9 @@ footer {
 <header>
     <h1>Psicología Jurídica Rafaela</h1>
     <p>Asistencia técnica estratégica para abogados</p>
-
     <p><strong>Fortalecé tu caso con respaldo psicológico-forense</strong></p>
 
-    <a href="https://wa.me/549XXXXXXXXXX" class="btn">WhatsApp</a>
+    <a href="#" class="btn">WhatsApp</a>
     <a href="#contacto" class="btn">Solicitar revisión</a>
 </header>
 
@@ -161,12 +150,7 @@ footer {
 
     <p>Evaluamos tu expediente y te indicamos estrategia, riesgos y viabilidad.</p>
 
-    <p><strong>Contacto:</strong></p>
-    <p>📍 Rafaela, Santa Fe</p>
-    <p>📧 tuemail@gmail.com</p>
-    <p>📱 +54 9 XXX XXX XXXX</p>
-
-    <a href="https://wa.me/549XXXXXXXXXX" class="btn">Escribir por WhatsApp</a>
+    <p><strong>Dejanos tu consulta y te contactamos.</strong></p>
 </section>
 
 <footer>
